@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Olá! Eu sou Rodrigo Gazire
 
-<!--
-**Rodregues-dev/Rodregues-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional com experiência em gestão de mudanças organizacionais, análise de mercado. marketing/vendas e novos negócios. Tenho passagem por empresas como Fia Business School, Shelfpix, Frooty e Spremuto. Atualmente estou aprendendo programação na Alura.
 
-Here are some ideas to get you started:
+✨ Habilidades e Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Análise de Métricas e KPIs para gestão de mudanças.
+
+📊 Estratégias de mercado e vendas para expansão.
+
+🚀 Desenvolvimento de novos negócios com foco em inovação e transformação digital.
+
+
+Este repositório trará insights sobre gestão de mudanças, dados de mercado, estratégias empresariais e ferramentas que utilizo para otimizar processos.
+
+📫 Contatos:
+
+LinkedIn: linkedin.com/in/rodrigogazire
+
+E-mail: rodrigogazire@gmail.com
+
+Fique à vontade para explorar os repositórios e trocar ideias! 😃
+
+
